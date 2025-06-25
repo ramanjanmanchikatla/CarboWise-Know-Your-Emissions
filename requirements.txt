@@ -1,0 +1,10 @@
+streamlit
+numpy
+pandas
+joblib
+scikit-learn
+langchain
+langchain_community
+langchain-core
+langchain-groq
+
