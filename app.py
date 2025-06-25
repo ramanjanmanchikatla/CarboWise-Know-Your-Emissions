@@ -13,7 +13,7 @@ load_dotenv()
 model = joblib.load('co2_emission_model.pkl')
 model_columns = joblib.load('model_columns.pkl')
 
-st.title("🚗 CO₂ Emission Predictor (Canada Vehicles)")
+st.title("🚗 CO₂ Emission Predictor")
 st.markdown("Enter vehicle specifications to predict CO₂ emissions (g/km)")
 
 # Input fields
