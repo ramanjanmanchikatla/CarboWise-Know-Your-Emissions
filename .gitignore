@@ -12,8 +12,7 @@ venv/
 .env
 
 # Model files
-co2_emission_model.pkl
-model_columns.pkl
+
 
 # Jupyter/IPython
 .ipynb_checkpoints/
