@@ -1,4 +1,4 @@
-# 🚗 EcoPredictor – CO₂ Emission Estimator
+# 🚗 CarboWise – CO₂ Emission Estimator
 
 EcoPredictor is a machine learning-powered application that predicts the CO₂ emission (g/km) of a vehicle based on engine size, fuel consumption, and fuel type. It uses a trained linear regression model for prediction and integrates a Groq LLM via LangChain to explain the result and answer follow-up questions in natural language.
 
