@@ -3,7 +3,7 @@ import streamlit as st
 import joblib
 from langchain_groq import ChatGroq
 # from langchain_openai import ChatOpenAI
-from langchain.prompts import PromptTemplate
+from langchain_core.prompts import PromptTemplate
 from dotenv import load_dotenv
 import os
 
